@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "tp4056")(type "KiCad")(uri "${KIPRJMOD}/symbols_n_footprints/TP4056/TP4056.kicad_sym")(options "")(descr ""))
+  (lib (name "dw01a")(type "KiCad")(uri "${KIPRJMOD}/symbols_n_footprints/DW01A/DW01A.kicad_sym")(options "")(descr ""))
+  (lib (name "fs8205a")(type "KiCad")(uri "${KIPRJMOD}/symbols_n_footprints/FS8205A/FS8205A.kicad_sym")(options "")(descr ""))
+)
